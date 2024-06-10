@@ -15,23 +15,13 @@ En este espacio se disponibiliza las herramientas con las que abordamos cada una
 
 ## (a) QA
 
-### - `backend` https://github.com/argendata/backend 
+### - `main` https://github.com/argendata/main 
 Tiene como objetivo principal dar estructura organizativa al proyecto para simplificar los procesos de creación y ejecución de controles sobre los conjuntos de datos. Este programa permite tanto la administración del sistema de archivos compartido como la interacción para el QA  entre investigadores y el equipo de datos durante el proceso de generación de datos.
-
 
 ### - `geonomencladores` https://github.com/argendata/geonomencladores 
 El repositorio contiene definiciones, código y conjuntos de datos que tienen por objetivo la normalización y herramientas para estandarizar información geográfica del conjunto de datos. 
 
 
-### - `data-transformers` https://github.com/argendata/data-transformers 
-Data Transformers es una biblioteca para Python que busca facilitar la escritura, ejecución, reproducibilidad y el versionado del código fuente que se realice para manipular datos estructurados. Forma parte del conjunto de herramientas de ArgenData para el análisis y procesamiento de datos manual-asistido. Tiene como principal objetivo formatear los datos según las necesidades del código utilizado por Frontend para las visualizaciones. 
-
-
-### - `data` https://github.com/argendata/data 
-En este repositorio se comparten los  datasets definitivos agrupados por tópicos que se disponibilizan para la descarga desde el sitio web de argendata. 
-
-### - `transformers` https://github.com/argendata/transformers  
-En este repositorio se comparten los scripts de Python que funcionan como “recetas” para la transformación de los datos de [data] para llevarlos al formato requerido por Frontend para la visualización.  
 
 
 ## (b) Reproductibilidad
@@ -42,4 +32,14 @@ El proyecto procura la armonización del proceso de generación de datos: Explor
 ### - `argendataR` https://github.com/argendata/argendataR 
 Un paquete de R con un conjunto de funciones auxiliares del proceso de ETL que procuran facilitar el flujo de trabajo con fuentes y outputs.
  aseguramiento de la calidad (QA) y (b) reproductibilidad del proceso de generación de datos. 
+
+### - `data` https://github.com/argendata/data 
+En este repositorio se comparten los datasets definitivos agrupados por tópicos que se disponibilizan para la descarga desde el sitio web de argendata. 
+
+### - `data-transformers` https://github.com/argendata/data-transformers 
+Data Transformers es una biblioteca para Python que busca facilitar la escritura, ejecución, reproducibilidad y el versionado del código fuente que se realice para manipular datos estructurados. Forma parte del conjunto de herramientas de ArgenData para el análisis y procesamiento de datos manual-asistido. Tiene como principal objetivo formatear los datos según las necesidades del código utilizado por Frontend para las visualizaciones. 
+
+### - `transformers` https://github.com/argendata/transformers  
+En este repositorio se comparten los scripts de Python que funcionan como “recetas” para la transformación de los datos de [data] para llevarlos al formato requerido por Frontend para la visualización.  
+
 
