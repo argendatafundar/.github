@@ -9,7 +9,7 @@ Argendata es un proyecto de gran escala a través del cual [Fundar](https://fund
 
 Con el fin de alcanzar altos estándares de calidad de datos, se ha desarrollado un circuito de gestión de la información que se compone de dos procesos principales:  **(a)** aseguramiento de la calidad (_QA_) y **(b)** reproductibilidad del proceso de generación de datos. 
 
-A su vez, las diferentes acciones de la gestión de datos pueden entenderse a partir de su vinculación con el proceso más amplio de generación de contenido de **argendata**. Esto es, por un lado, en la interacción con las y los investigadores durante la etapa de generación de datos, y por otro lado, en la necesidad de estandarizar y armonizar, tanto los datos como los procesos que los generaron. Podés profundizar sobre este tema acá.
+A su vez, las diferentes acciones de la gestión de datos pueden entenderse a partir de su vinculación con el proceso más amplio de generación de contenido de **argendata**. Esto es, por un lado, en la interacción con las y los investigadores durante la etapa de generación de datos, y por otro lado, en la necesidad de estandarizar y armonizar, tanto los datos como los procesos que los generaron. 
 
 En este espacio se disponibiliza las herramientas con las que abordamos cada una de los procesos las tareas antes reseñadas:
 
@@ -27,7 +27,7 @@ El repositorio contiene definiciones, código y conjuntos de datos que tienen po
 El proyecto procura la armonización del proceso de generación de datos: **_Explorar, Transformar y Cargar (ETL, por sus siglas en inglés)_**. El flujo de trabajo acá definido procura reducir la fricción de la actualización de datos, automatizando siempre que sea posible los pasos ejecutados por las y los investigadores de cada tópico. Desde la descarga de fuentes crudas, los procesos de limpieza y la generación de conjuntos de datos necesarios para las visualizaciones. 
  
 ### - `argendataR` https://github.com/argendata/argendataR 
-Un paquete de `R` con un conjunto de funciones auxiliares del proceso de _ETL_ que procuran facilitar el flujo de trabajo con fuentes y outputs.
+Un paquete de `R` con un conjunto de funciones auxiliares del proceso de _ETL_ que procuran facilitar el flujo de trabajo con fuentes y _outputs_.
 
 ### - `data` https://github.com/argendata/data 
 En este repositorio se comparten los datasets definitivos agrupados por tópicos que se disponibilizan para la descarga desde el sitio web de **argendata**. 
@@ -36,6 +36,6 @@ En este repositorio se comparten los datasets definitivos agrupados por tópicos
 Biblioteca para `Python` que busca facilitar la escritura, ejecución, reproducibilidad y el versionado del código fuente que se realice para manipular datos estructurados. Forma parte del conjunto de herramientas de **argendata** para el análisis y procesamiento de datos manual-asistido. Tiene como principal objetivo formatear los datos según las necesidades del código utilizado por _Frontend_ para las visualizaciones. 
 
 ### - `transformers` https://github.com/argendata/transformers  
-En este repositorio se comparten los scripts de `Python` que funcionan como “recetas” para la transformación de recursos de [data] para llevarlos al formato requerido por _Frontend_ para la visualización.  
+En este repositorio se comparten los scripts de `Python` que funcionan como “recetas” para la transformación de recursos de [`data`](https://github.com/argendata/data) para llevarlos al formato requerido por _Frontend_ para la visualización.  
 
 
