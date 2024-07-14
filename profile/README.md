@@ -1,6 +1,4 @@
-## fundar.argendata 
 
-![image](https://github.com/argendata/.github-private/assets/12114624/463008ec-f774-4fba-a847-f82b2240e8df)
 
 # Sobre Argendata
 Argendata es un proyecto de gran escala a través del cual [Fundar](https://fund.ar/) apuesta a crear un sitio de referencia en lo que concierne a datos sobre Argentina. En línea con las principales premisas de Fundar, Argendata tiene como objetivo aportar conocimiento e incidir en la conversación pública a partir de la evidencia, generando para tal fin un riguroso proceso para la generación de contenidos y gestión de datos. 
@@ -10,6 +8,12 @@ Argendata es un proyecto de gran escala a través del cual [Fundar](https://fund
 Con el fin de alcanzar altos estándares de calidad de datos, se ha desarrollado un circuito de gestión de la información que se compone de dos procesos principales:  **(a)** aseguramiento de la calidad (_QA_) y **(b)** reproductibilidad del proceso de generación de datos. 
 
 A su vez, las diferentes acciones de la gestión de datos pueden entenderse a partir de su vinculación con el proceso más amplio de generación de contenido de **argendata**. Esto es, por un lado, en la interacción con las y los investigadores durante la etapa de generación de datos, y por otro lado, en la necesidad de estandarizar y armonizar, tanto los datos como los procesos que los generaron. 
+
+Más concretamente, los datos publicados en Argendata salen de un proceso de trabajo de varias estapas. Estas son: 
+
+- la generación de contenido por parte de investigadores (que incluye la generación de datos, instrucciones o código para su generación y la narrativas asociada a cada item o gráfico)
+- la armonización de las instrucciones o código que genera los datos (incluyendo tanto el acceso a fuentes, como el procesamiento de las mismas)
+- la transformación de datasets que serán utilizados por el Frontend para generar las visualizaciones.
 
 En este espacio se disponibiliza las herramientas con las que abordamos cada una de los procesos las tareas antes reseñadas:
 
@@ -38,4 +42,5 @@ Biblioteca para `Python` que busca facilitar la escritura, ejecución, reproduci
 ### - `transformers` https://github.com/argendata/transformers  
 En este repositorio se comparten los scripts de `Python` que funcionan como “recetas” para la transformación de recursos de [`data`](https://github.com/argendata/data) para llevarlos al formato requerido por _Frontend_ para la visualización.  
 
+![image](https://github.com/argendata/.github-private/assets/12114624/463008ec-f774-4fba-a847-f82b2240e8df)
 
