@@ -17,7 +17,13 @@ Argendata es un proyecto de gran escala a través del cual [Fundar](https://fund
 
 ## Sobre los datos
 
-Con el fin de alcanzar altos estándares de calidad de datos, se ha desarrollado un circuito de gestión de la información que se compone de dos procesos principales:  **(a)** aseguramiento de la calidad (_QA_) y **(b)** reproductibilidad del proceso de generación de datos. 
+El trabajo de recopilación, gestión y puesta a disposición de datos en Argendata se basa en tres pilares fundamentales que enmarcan las acciones, herramientas y procesos: **transparencia y reproducibilidad, calidad de datos y armonización.**
+
+- **Administración de recursos:** desarrollo y mantenimiento de estándares y programas para facilitar la gestión, control y posprocesamiento de datos elaborados por investigadores, con el objetivo de minimizar la inherente distancia entre procesos de investigación individuales y la necesidad de información armonizada y coherente.
+
+- **Control de calidad y reportes:** programas que permiten realizar consultas sistemáticas sobre la calidad de los datos, dados los estándares definidos por el proyecto.
+
+- **Armonización del código fuente:** gestión de programas y flujos de trabajo para administrar de manera armónica el proceso de generación de datos,  con el objetivo de procurar la reproductibilidad y actualización de los datos en el tiempo.
 
 A su vez, las diferentes acciones de la gestión de datos pueden entenderse a partir de su vinculación con el proceso más amplio de generación de contenido de **argendata**. Esto es, por un lado, en la interacción con las y los investigadores durante la etapa de generación de datos, y por otro lado, en la necesidad de estandarizar y armonizar, tanto los datos como los procesos que los generaron. 
 
@@ -29,15 +35,12 @@ Más concretamente, los datos publicados en Argendata salen de un proceso de tra
 
 En este espacio se disponibiliza las herramientas con las que abordamos cada una de los procesos las tareas antes reseñadas:
 
-## (a) _QA_
 
-### - `main` https://github.com/argendatafundarfundar/main 
+### - `qa` https://github.com/argendatafundarfundar/main 
 Tiene como objetivo principal dar estructura organizativa al proyecto para simplificar los procesos de creación y ejecución de controles sobre los conjuntos de datos. Este programa permite tanto la administración del sistema de archivos compartido como la interacción para el _QA_ entre investigadores y el equipo de datos durante el proceso de generación de datos.
 
 ### - `geonomencladores` https://github.com/argendatafundarfundar/geonomencladores 
-El repositorio contiene definiciones, código y conjuntos de datos que tienen por objetivo la normalización y herramientas para estandarizar información geográfica del conjunto de datos. 
-
-## (b) Reproductibilidad
+El repositorio contiene un diccionario de entidades geográficas normalizado para el uso de Argendata.  
 
 ### - `etl` https://github.com/argendatafundar/etl 
 El proyecto procura la armonización del proceso de generación de datos: **_Explorar, Transformar y Cargar (ETL, por sus siglas en inglés)_**. El flujo de trabajo acá definido procura reducir la fricción de la actualización de datos, automatizando siempre que sea posible los pasos ejecutados por las y los investigadores de cada tópico. Desde la descarga de fuentes crudas, los procesos de limpieza y la generación de conjuntos de datos necesarios para las visualizaciones. 
