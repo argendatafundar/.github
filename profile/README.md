@@ -36,10 +36,10 @@ Más concretamente, los datos publicados en Argendata salen de un proceso de tra
 En este espacio se disponibiliza las herramientas con las que abordamos cada una de los procesos las tareas antes reseñadas:
 
 
-### - `qa` https://github.com/argendatafundarfundar/main 
+### - `qa` https://github.com/argendatafundar/qa 
 Tiene como objetivo principal dar estructura organizativa al proyecto para simplificar los procesos de creación y ejecución de controles sobre los conjuntos de datos. Este programa permite tanto la administración del sistema de archivos compartido como la interacción para el _QA_ entre investigadores y el equipo de datos durante el proceso de generación de datos.
 
-### - `geonomencladores` https://github.com/argendatafundarfundar/geonomencladores 
+### - `geonomencladores` https://github.com/argendatafundar/geonomencladores 
 El repositorio contiene un diccionario de entidades geográficas normalizado para el uso de Argendata.  
 
 ### - `etl` https://github.com/argendatafundar/etl 
