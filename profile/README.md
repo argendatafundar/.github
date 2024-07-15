@@ -1,4 +1,10 @@
-
+<a href="https://argendata.fund.ar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/080bdfa5-0b90-4d54-855c-314ba2a17214">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c9f824b8-1f0c-4974-b3a1-b545018af549">
+    <img src="argendata.fund.ar"></img>
+  </picture>
+</a>
 
 # Sobre Argendata
 Argendata es un proyecto de gran escala a través del cual [Fundar](https://fund.ar/) apuesta a crear un sitio de referencia en lo que concierne a datos sobre Argentina. En línea con las principales premisas de Fundar, Argendata tiene como objetivo aportar conocimiento e incidir en la conversación pública a partir de la evidencia, generando para tal fin un riguroso proceso para la generación de contenidos y gestión de datos. 
@@ -44,10 +50,10 @@ En este repositorio se comparten los scripts de `Python` que funcionan como “r
 
 <!-- ![image](https://github.com/argendatafundar/.github-private/assets/12114624/463008ec-f774-4fba-a847-f82b2240e8df) -->
 
-<a href="https://fund.ar">
+<a href="https://www.github.com/argendatafundar">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/84831245-5f04-44d2-81f3-2ac1badf8ada">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/628dd50f-0ebb-40bb-b1be-7f723516dc2c">
-    <img src="fund.ar"></img>
+    <img src="github.com/argendatafundar"></img>
   </picture>
 </a>
