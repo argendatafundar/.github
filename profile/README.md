@@ -6,6 +6,10 @@
     <img src="argendata.fund.ar"></img>
   </picture>
 </a>
+
+&nbsp;
+&nbsp;
+&nbsp;
 </div>
 
 <!-- # Sobre Argendata -->
