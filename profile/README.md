@@ -1,8 +1,8 @@
 <div align='center'>
 <a href="https://argendata.fund.ar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/080bdfa5-0b90-4d54-855c-314ba2a17214">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c9f824b8-1f0c-4974-b3a1-b545018af549">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/080bdfa5-0b90-4d54-855c-314ba2a17214" width="400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c9f824b8-1f0c-4974-b3a1-b545018af549" width="400">
     <img src="argendata.fund.ar"></img>
   </picture>
 </a>
