@@ -19,28 +19,28 @@ En este espacio se disponibiliza las herramientas con las que abordamos cada una
 
 ## (a) _QA_
 
-### - `main` https://github.com/argendata/main 
+### - `main` https://github.com/argendatafundarfundar/main 
 Tiene como objetivo principal dar estructura organizativa al proyecto para simplificar los procesos de creación y ejecución de controles sobre los conjuntos de datos. Este programa permite tanto la administración del sistema de archivos compartido como la interacción para el _QA_ entre investigadores y el equipo de datos durante el proceso de generación de datos.
 
-### - `geonomencladores` https://github.com/argendata/geonomencladores 
+### - `geonomencladores` https://github.com/argendatafundarfundar/geonomencladores 
 El repositorio contiene definiciones, código y conjuntos de datos que tienen por objetivo la normalización y herramientas para estandarizar información geográfica del conjunto de datos. 
 
 ## (b) Reproductibilidad
 
-### - `etl` https://github.com/argendata/etl 
+### - `etl` https://github.com/argendatafundar/etl 
 El proyecto procura la armonización del proceso de generación de datos: **_Explorar, Transformar y Cargar (ETL, por sus siglas en inglés)_**. El flujo de trabajo acá definido procura reducir la fricción de la actualización de datos, automatizando siempre que sea posible los pasos ejecutados por las y los investigadores de cada tópico. Desde la descarga de fuentes crudas, los procesos de limpieza y la generación de conjuntos de datos necesarios para las visualizaciones. 
  
-### - `argendataR` https://github.com/argendata/argendataR 
+### - `argendataR` https://github.com/argendatafundar/argendataR 
 Un paquete de `R` con un conjunto de funciones auxiliares del proceso de _ETL_ que procuran facilitar el flujo de trabajo con fuentes y _outputs_.
 
-### - `data` https://github.com/argendata/data 
+### - `data` https://github.com/argendatafundar/data 
 En este repositorio se comparten los datasets definitivos agrupados por tópicos que se disponibilizan para la descarga desde el sitio web de **argendata**. 
 
-### - `data-transformers` https://github.com/argendata/data-transformers 
+### - `data-transformers` https://github.com/argendatafundar/data-transformers 
 Biblioteca para `Python` que busca facilitar la escritura, ejecución, reproducibilidad y el versionado del código fuente que se realice para manipular datos estructurados. Forma parte del conjunto de herramientas de **argendata** para el análisis y procesamiento de datos manual-asistido. Tiene como principal objetivo formatear los datos según las necesidades del código utilizado por _Frontend_ para las visualizaciones. 
 
-### - `transformers` https://github.com/argendata/transformers  
-En este repositorio se comparten los scripts de `Python` que funcionan como “recetas” para la transformación de recursos de [`data`](https://github.com/argendata/data) para llevarlos al formato requerido por _Frontend_ para la visualización.  
+### - `transformers` https://github.com/argendatafundar/transformers  
+En este repositorio se comparten los scripts de `Python` que funcionan como “recetas” para la transformación de recursos de [`data`](https://github.com/argendatafundar/data) para llevarlos al formato requerido por _Frontend_ para la visualización.  
 
-![image](https://github.com/argendata/.github-private/assets/12114624/463008ec-f774-4fba-a847-f82b2240e8df)
+![image](https://github.com/argendatafundar/.github-private/assets/12114624/463008ec-f774-4fba-a847-f82b2240e8df)
 
