@@ -63,8 +63,8 @@ En este repositorio se comparten los scripts de `Python` que funcionan como “r
 
 <a href="https://www.github.com/argendatafundar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/84831245-5f04-44d2-81f3-2ac1badf8ada">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/628dd50f-0ebb-40bb-b1be-7f723516dc2c">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e3b757ac-0e45-491d-bdfa-650960de5a8e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8872fb5a-4ab3-46c7-bbb2-11df9f3698b2">
     <img src="github.com/argendatafundar"></img>
   </picture>
 </a>
