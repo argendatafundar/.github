@@ -61,8 +61,6 @@ Biblioteca para `Python` que busca facilitar la escritura, ejecución, reproduci
 ### - `transformers` https://github.com/argendatafundar/transformers  
 En este repositorio se comparten los scripts de `Python` que funcionan como “recetas” para la transformación de recursos de [`data`](https://github.com/argendatafundar/data) para llevarlos al formato requerido por _Frontend_ para la visualización.  
 
-<!-- ![image](http://149.50.137.164:2147/static/argendata/argendata-flujo-transparente-negro.svg) -->
-
 <a href="https://www.github.com/argendatafundar">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/84831245-5f04-44d2-81f3-2ac1badf8ada">
