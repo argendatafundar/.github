@@ -14,7 +14,7 @@
 
 <!-- # Sobre Argendata -->
 
-Argendata es un proyecto de gran escala a través del cual [Fundar](https://fund.ar/) apuesta a crear un sitio de referencia en lo que concierne a datos sobre Argentina. En línea con las principales premisas de Fundar, tiene como objetivo aportar conocimiento e incidir en la conversación pública a partir de la evidencia, y a través de  un riguroso proceso  de generación de contenidos y gestión de datos.
+Argendata es un proyecto de gran escala a través del cual [Fundar](https://github.com/datos-Fundar) apuesta a crear un sitio de referencia en lo que concierne a datos sobre Argentina. En línea con las principales premisas de Fundar, tiene como objetivo aportar conocimiento e incidir en la conversación pública a partir de la evidencia, y a través de  un riguroso proceso  de generación de contenidos y gestión de datos.
 
 
 ## Sobre los datos
