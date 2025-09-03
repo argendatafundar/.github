@@ -2,7 +2,7 @@
 <a href="https://argendata.fund.ar">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a78a51f5-6f2e-4928-a78a-5d799a1837e2" width="400">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c9f824b8-1f0c-4974-b3a1-b545018af549" width="400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/df678f18-227b-41d7-a3af-9c6d7b3700fa" width="400">
     <img src="argendata.fund.ar"></img>
   </picture>
 </a>
