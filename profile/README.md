@@ -1,3 +1,4 @@
+<div align='center'>
 <a href="https://argendata.fund.ar">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a78a51f5-6f2e-4928-a78a-5d799a1837e2" width="400">
